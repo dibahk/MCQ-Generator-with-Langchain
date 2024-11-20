@@ -19,12 +19,25 @@ A tool for generating multiple-choice questions from uploaded PDF or .txt files.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone [https://github.com/username/repo-name.git](https://github.com/dibahk/MCQ-Generator-with-Langchain.git)
 
 2. Navigate to the project directory:
   ```bash
-  cd repo-name
-
+  cd MCQ-Generator-with-Langchain
+```
 3. Install dependencies:
 ```bash
-Copy code
+pip install -r requirements.txt
+```
+4. Run the Streamlit application:
+```bash
+streamlit run app.py
+```
+## **Usage**
+1. Launch the app using the command above.
+2. Upload a .pdf or .txt file via the upload button.
+3. Select your preferences:
+- Difficulty level
+- Number of questions
+- Subject of the questions
+4. View and download the generated multiple-choice questions.
