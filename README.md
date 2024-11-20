@@ -37,7 +37,7 @@ streamlit run app.py
 1. Launch the app using the command above.
 2. Upload a .pdf or .txt file via the upload button.
 3. Select your preferences:
-- Difficulty level
-- Number of questions
-- Subject of the questions
+  - Difficulty level
+  - Number of questions
+  - Subject of the questions
 4. View and download the generated multiple-choice questions.
