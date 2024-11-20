@@ -1,4 +1,4 @@
-# **MCQ Generator using LangChain, GPT-3.5 Turbo, and Streamlit**
+# **Multiple Choice Question Generator using LangChain, GPT-3.5 Turbo, and Streamlit**
 
 A tool for generating multiple-choice questions from uploaded PDF or .txt files. Users can customize the difficulty level, number of questions, and subject area.
 
