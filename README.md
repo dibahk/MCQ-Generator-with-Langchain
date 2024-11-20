@@ -18,9 +18,9 @@ A tool for generating multiple-choice questions from uploaded PDF or .txt files.
 ## **Installation**
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/username/repo-name.git](https://github.com/dibahk/MCQ-Generator-with-Langchain.git)
-
+```bash
+git clone [https://github.com/username/repo-name.git](https://github.com/dibahk/MCQ-Generator-with-Langchain.git)
+```
 2. Set environment variables:
   ```bash
 export OPENAI_API_KEY='your_openAI_key'
@@ -39,8 +39,7 @@ streamlit run app.py
 ```
 ## **Usage**
 
-1. Launch the app using the command:
-   `streamlit run app.py`
+1. Launch the app using the above command.
 2. Upload a `.pdf` or `.txt` file via the upload button.
 3. Select your preferences:
    - **Difficulty level** (Easy, Medium, Hard)
@@ -58,26 +57,7 @@ streamlit run app.py
 
 ---
 
-## **Contributing**
 
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-   `git checkout -b feature-name`
-3. Make your changes and commit:
-   `git commit -m "Add feature"`
-4. Push to your fork:
-   `git push origin feature-name`
-5. Submit a pull request.
-
----
-
-## **License**
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
 
 ## **Acknowledgments**
 
