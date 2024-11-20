@@ -19,7 +19,7 @@ A tool for generating multiple-choice questions from uploaded PDF or .txt files.
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/username/repo-name.git](https://github.com/dibahk/MCQ-Generator-with-Langchain.git)
+git clone \https://github.com/dibahk/MCQ-Generator-with-Langchain.git
 ```
 2. Set environment variables:
   ```bash
